@@ -1,0 +1,16 @@
+*.wav
+*.jag
+*.WAV
+*.mp3
+*.csv
+venv
+dist
+build
+speechocean762
+temp
+results_*
+train
+test
+__pycache__
+.env
+cache_data
