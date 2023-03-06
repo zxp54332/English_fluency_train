@@ -1,5 +1,4 @@
 # English_fluency_train
-## 專案位置 145主機
 ```bash
 cd /media/DATA/laurence/English_fluency_train
 conda activate fluency
